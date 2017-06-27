@@ -3,8 +3,8 @@
 #include <ESP8266mDNS.h>
 #include "FastLED.h"
 
-#define NETWORK_NAME "Chaostreff-Flensburg"
-#define NETWORK_PASSWORD "Schnell33"
+#define NETWORK_NAME "YOUR SSID"
+#define NETWORK_PASSWORD "YOUR PASSWORD"
 
 #define DATA_PIN    6
 #define LED_TYPE    WS2812B
